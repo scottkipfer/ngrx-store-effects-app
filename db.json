@@ -118,6 +118,14 @@
         {
           "id": 5,
           "name": "mozzarella"
+        },
+        {
+          "id": 4,
+          "name": "chili"
+        },
+        {
+          "id": 10,
+          "name": "pepperoni"
         }
       ],
       "id": 2
